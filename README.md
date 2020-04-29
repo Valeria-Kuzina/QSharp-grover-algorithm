@@ -3,9 +3,10 @@
 
 ## Предварительные требования
 * [Код VS](https://code.visualstudio.com/download)
-* [Пакет SDK для .NET Core 3,1 или более поздней версии](https://dotnet.microsoft.com/download) В ту же папку что и Код VS.
+* [Пакет SDK для .NET Core 3,1 или более поздней версии](https://dotnet.microsoft.com/download) Установить в ту же папку что и Код VS.
 * [Установите расширение VS Code](https://marketplace.visualstudio.com/items?itemName=quantum.quantum-devkit-vscode)
 
+## Порядок усановки и запуска
 1. Установите шаблоны проектов Quantum.
 * Choose View -> Command Palette .
 * Choice Q #: Installing Project Templates
